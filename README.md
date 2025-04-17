@@ -11,7 +11,9 @@ one-to-one and onto function (bijection) $f: V_1 \rightarrow V_2$ such that $(u,
 \in E_1$ iff $(f(u),f(v)) \in E_2$.
 
 
+
 //
+
 
 
 Name: Kane Kriz
@@ -20,13 +22,15 @@ Start Date: 3 April 2025
 
 Last Edited: 17 April 2025
 
-Feedback Request 1 Date: X
+Feedback Request 1 Date: 17 April 2025
+
 
 
 //
 
 
-Response: WIP
+
+Response: 
 
 Per in-class definition: Isomorphic - Two graphs are isomorphic if they have the same structure (ignoring vertex names)
 
@@ -108,12 +112,14 @@ We have shown that $f$ is a bijection between $V_1$ and $V_2$ that preserves all
 
 Every edge in $G_1$ maps to an edge in $G_2$, and every edge in $G_2$ comes from an edge in $G_1$. 
 
-Since $f$ maintains both vertex correspondence and edge relationships perfectly, $G_1$ and $G_2$ are isomorphic.
+Since $f$ is demonstrated to maintain vertex correspondence and edge relationships directly, $G_1$ and $G_2$ are isomorphic.
 
 Q.E.D.
 
 
+
 //
+
 
 
 Plagiarism Acknowledgement: I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
@@ -121,6 +127,6 @@ Plagiarism Acknowledgement: I certify that I have listed all sources used to com
 
 Citations:
 
-https://tjyusun.com/mat202/sec-graph-isomorphisms.html
+“Isomorphisms and Subgraphs.” Tjyusun.com, 2025, tjyusun.com/mat202/sec-graph-isomorphisms.html. Accessed 17 Apr. 2025.
 
-https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Combinatorics_(Morris)/03%3A_Graph_Theory/11%3A_Basics_of_Graph_Theory/11.04%3A_Graph_Isomorphisms
+“11.4: Graph Isomorphisms.” Mathematics LibreTexts, 30 Mar. 2021, math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Combinatorics_(Morris)/03%3A_Graph_Theory/11%3A_Basics_of_Graph_Theory/11.04%3A_Graph_Isomorphisms.
