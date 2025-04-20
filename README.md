@@ -108,14 +108,7 @@ Per the above established completeness of $G_1$, $(v_i, v_j) \in E_1$ must exist
 Therefore $f$ preserves edges in the reverse direction.
 
 
-We have shown that $f$ is a bijection between $V_1$ and $V_2$ that preserves all edges in both directions.
-
-Every edge in $G_1$ maps to an edge in $G_2$, and every edge in $G_2$ comes from an edge in $G_1$. 
-
-Since $f$ is demonstrated to maintain vertex correspondence and edge relationships directly, $G_1$ and $G_2$ are isomorphic.
-
-Q.E.D.
-
+So, as
 
 
 //
